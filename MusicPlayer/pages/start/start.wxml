@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="container">
+  <image class="background-image" src='../../images/background01.jpg'></image>
+  <image class="title" src='../../images/title.png'></image>
+  <button class="btn1" bindtap="navigate">进入智能点歌模式！</button>
+</view>
