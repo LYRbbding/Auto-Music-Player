@@ -1,0 +1,51 @@
+.container{
+  width: 750rpx;
+  height: 1750rpx;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.background-image{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.title{
+  position: absolute;
+  z-index:2;
+  text-align: center;
+  width:450rpx;
+  height:81rpx;
+  margin-top: 50%;
+  margin-left: 20%;
+}
+
+.song{
+  position: absolute;
+  z-index:10;
+  width:600rpx;
+  height:600rpx;
+  margin-top: 65%;
+  margin-left: 10%;
+  border-radius: 300rpx;
+  animation-name:rotate;
+  animation-duration: 12s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.songname{
+  position: absolute;
+  z-index:11;
+  width:80%;
+  color: rgb(240, 240, 240);
+  text-align: center;
+  margin-top:150%;
+  margin-left: 10%;
+}
+
+@keyframes rotate{
+  from{transform:rotate(0deg);}
+  to{transform:rotate(359deg);}
+}
