@@ -1,0 +1,7 @@
+<!--start.wxml-->
+<view class="container">
+  <image class="background-image" src='../../../images/background01.jpg'></image>
+  <image class="title" src='../../../images/title.png'></image>
+  <image class="song" src='{{imgsrc}}'></image>
+  <view class="songname">{{songname}}</view>
+</view>
