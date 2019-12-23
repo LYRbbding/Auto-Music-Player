@@ -26,3 +26,5 @@ Demo文件夹下：视频演示、图片原理说明
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=j3039gcx426" allowFullScreen="true"></iframe>
 
+<video src="https://v.qq.com/txp/iframe/player.html?vid=j3039gcx426" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
