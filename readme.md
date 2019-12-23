@@ -6,23 +6,37 @@
 
 刘怿睿2019210367 黄诗扬2019210374 郭佩圣2019210375 李硕2019210376
 
+
+
+
+
 ### 项目解析：
 
-MusicPlayer文件夹下：微信小程序端 - 播放音乐用
+#### MusicPlayer文件夹下：
 
-#### 原理示意：
+微信小程序端 - 播放音乐用
+
+##### 原理示意：
 
 ![微信小程序端 结构示意图](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/wxapp.jpg)
 
-WiFiStation文件夹下：mCookie端 - 采集环境数据
 
-#### 原理示意：
+
+#### WiFiStation文件夹下：
+
+mCookie端 - 采集环境数据
+
+##### 原理示意：
 
 ![mCookie端 结构示意图](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/mCookie.jpg)
 
-Demo文件夹下：视频演示、图片原理说明
 
-#### 项目演示：
+
+#### Demo文件夹下：
+
+视频演示、图片原理说明
+
+##### 项目演示：
 
 [![Demo1](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo1.png)](https://v.qq.com/x/page/j3039gcx426.html)
 [![Demo2](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo2.png)](https://v.qq.com/x/page/r3039jip8wc.html)
