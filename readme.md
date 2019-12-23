@@ -25,4 +25,8 @@ Demo文件夹下：视频演示、图片原理说明
 #### 项目演示：
 
 [![Demo1](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo1.png)](https://v.qq.com/x/page/j3039gcx426.html)
+[![Demo2](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo2.png)](https://v.qq.com/x/page/r3039jip8wc.html)
+[![Demo3](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo3.png)](https://v.qq.com/x/page/d30396zqr0m.html)
+[![Demo4](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo4.png)](https://v.qq.com/x/page/c3039qv3r3b.html)
+[![Demo5](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo5.png)](https://v.qq.com/x/page/x3039ukxmab.html)
 
