@@ -12,13 +12,13 @@ MusicPlayer文件夹下：微信小程序端 - 播放音乐用
 
 #### 原理示意：
 
-![微信小程序端 结构示意图](https://github.com/LYRbbding/Auto-Music-Player/raw/master/Demo/wxapp.jpg)
+![微信小程序端 结构示意图](https://www.oursparkspace.cn/wp-content/uploads/2019/12/%E8%BD%AF%E4%BB%B6-1024x576.jpg)
 
 WiFiStation文件夹下：mCookie端 - 采集环境数据
 
 #### 原理示意：
 
-![mCookie端 结构示意图](https://github.com/LYRbbding/Auto-Music-Player/raw/master/Demo/mCookie.jpg)
+![mCookie端 结构示意图](https://www.oursparkspace.cn/wp-content/uploads/2019/12/%E7%A1%AC%E4%BB%B6-1-1024x576.jpg)
 
 Demo文件夹下：视频演示、图片原理说明
 
