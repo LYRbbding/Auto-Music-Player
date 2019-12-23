@@ -24,7 +24,5 @@ Demo文件夹下：视频演示、图片原理说明
 
 #### 项目演示：
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=j3039gcx426" allowFullScreen="true"></iframe>
-
-<video src="https://v.qq.com/txp/iframe/player.html?vid=j3039gcx426" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+[![Demo1](https://raw.githubusercontent.com/LYRbbding/Auto-Music-Player/master/Demo/Demo1.png)](https://v.qq.com/x/page/j3039gcx426.html)
 
